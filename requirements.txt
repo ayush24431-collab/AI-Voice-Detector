@@ -1,7 +1,12 @@
+setuptools==69.0.0
+wheel==0.42.0
 flask==3.0.0
 flask-cors==4.0.0
 librosa==0.10.1
-numpy==1.24.3
+numpy==1.26.4
 soundfile==0.12.1
+scipy==1.11.4
+numba==0.58.1
+llvmlite==0.41.1
 requests==2.31.0
 gunicorn==21.2.0
