@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Audio files
+*.mp3
+*.wav
+temp_*.mp3
+
+# Environment
+.env
+.DS_Store
+
+# IDE
+.vscode/
